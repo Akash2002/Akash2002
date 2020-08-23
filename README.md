@@ -7,3 +7,5 @@ Hello! Welcome to my GitHub repository. I am Akash, and I am a CS major at Georg
 ### Contact
 ------------
 
+[![LinkedIn](linkedin-2.png)](https://www.linkedin.com/in/akash-palaniappan-veerappan-4760a4164/) &nbsp; [![Twitter](twitter.png)](https://twitter.com/akashpl2002) &nbsp; [![Gmail](gmail.png)](mailto:akashpalaniappan@gmail.com)
+ 
