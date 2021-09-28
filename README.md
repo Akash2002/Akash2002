@@ -12,5 +12,5 @@ Check out [studygenerator.com](https://www.studygenerator.com), your #1 product 
 ### Contact
 ------------
 
-[LinkedIn](https://www.linkedin.com/in/akash-palaniappan-veerappan-4760a4164/) &nbsp; [Twitter](https://twitter.com/akashpl2002) &nbsp; [Gmail](mailto:akashpalaniappan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akash-veerappan-4760a4164/) &nbsp; [Twitter](https://twitter.com/akashpl2002) &nbsp; [Gmail](mailto:akashpalaniappan@gmail.com)
  
