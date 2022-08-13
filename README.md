@@ -8,7 +8,7 @@ Check out [studygenerator.com](https://www.studygenerator.com), your #1 product 
 
 ### Most Recent Experience
 ------------
-I interned at Meta (Summer 2022) for the WhatsApp Android team, where I developed the feature that lets users undo an accidental delete for me, so that they can later delete it for everyone given. 
+I interned at Meta (Summer 2022) for the WhatsApp Android team, where I developed the feature that lets users undo an accidental delete for me, so that they can later delete it for everyone given. Learn more about it on my LinkedIn below. 
 
 ### Contact
 ------------
